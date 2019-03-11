@@ -11,7 +11,7 @@ VirtualBox sayesinde bilgisayarımıza sanal makine kurabiliriz. Sanal Makine=??
 **1-Öncelikle VirtualBox da Sanal Makine Oluşturmak**
 
 Programımızı basit bir şekilde kurduktan sonra, sıradaki işlemler
-     ** Öncelikle ‘Yeni’ ye basarak yeni bir tane daha oluşturuyoruz.Yanda ki fotoğrafta gördüğünüz ”MyUbuntu” benim kurulu sanal makinem.Şimdi sizler için bir tane  daha kuracağım.
+     ** Öncelikle ‘Yeni’ ye basarak yeni bir tane daha oluşturuyoruz.Yanda ki fotoğrafta gördüğünüz ”MyUbuntu” benim kurulu sanal makinem. Şimdi sizler için bir tane  daha kuracağım.
      
 ![JZGZkQ](https://user-images.githubusercontent.com/3285283/54093218-65057780-43a6-11e9-8756-6a0717427ded.jpg)
 
@@ -21,6 +21,7 @@ Programımızı basit bir şekilde kurduktan sonra, sıradaki işlemler
 Bu kısımda resimlere de not ettiğim gibi ‘İsim’ kısmına,
 Sanal Makinenize vermek istediğiniz ismi yazmalısınız.
 Ben örnek olarak ‘Sanalmakinem’ diyeceğim.
+
 ![31](https://user-images.githubusercontent.com/3285283/54093304-756a2200-43a7-11e9-9653-95cf12f13566.jpg)
 
 Bu kısımda, kırmızı çerçeveye aldığım kısım gibi, bizden  ‘sanalmakinem’ için ayırmak istediğiniz bellek boyutunu soruyor.
