@@ -30,6 +30,7 @@ Resimlerin üstüne not ettiğim gibi bilgisayardan bilgisayara değişen bir de
 ![4](https://user-images.githubusercontent.com/3285283/54093318-a2b6d000-43a7-11e9-8f1b-bd8f20e15417.jpg)
 
 Sabit Disk oluşturmamız gerekiyor. "Şİmdi sanal disk oluştur" seçeneğini seçip Oluştur butonuna basıp ilerliyoruz.
+DİKKAT UYARI!!!!!!! HDD ALANINI 10GB YERİNE 30 GB SEÇMELİSİNİZ. AKSİ HALDE SORUN YAŞARSINIZ.
 ![5](https://user-images.githubusercontent.com/3285283/54093357-3092bb00-43a8-11e9-83b1-22de62525797.png)
 
 Resimde ki gibi devam.
