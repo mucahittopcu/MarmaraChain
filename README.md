@@ -6,7 +6,7 @@ VirtualBox sayesinde bilgisayarımıza sanal makine kurabiliriz. Sanal Makine=??
 
 **[Oracle VirtualBox 4.1.8 Final Türkçe ](https://download.virtualbox.org/virtualbox/6.0.4/VirtualBox-6.0.4-128413-Win.exe)  (32-64bit Buradan indirebilirsiniz)
 
-**[Ubuntu 13.04 Masaüstü Sürümü ](http://releases.ubuntu.com/18.04/ubuntu-18.04.2-desktop-amd64.iso)              (32/64bit  Buradan indirebilirsiniz)
+**[Ubuntu 18.04 Masaüstü Sürümü ](http://releases.ubuntu.com/18.04/ubuntu-18.04.2-desktop-amd64.iso)              (32/64bit  Buradan indirebilirsiniz)
 
 **1-Öncelikle VirtualBox da Sanal Makine Oluşturmak**
 
