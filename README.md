@@ -81,4 +81,4 @@ Klavye seçimi yapıyorsunuz,
 Yerinizi(Sinop/İstanbul vb. ) giriyorsunuz.
 
 Kurulum tamamen temiz bittikten sonra bu konudan devam edebilirsiniz. 
-[Marmara Kredi döngüsü - vadeli çek açıklamalı anlatım.(Türkçe)](https://github.com/marmarachain/MarmaraChain/issues/4)
+[Marmara Chain Test Server Kurulumu.](https://github.com/marmarachain/MarmaraChain/issues/1)
