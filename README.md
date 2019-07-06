@@ -81,4 +81,4 @@ Klavye seçimi yapıyorsunuz,
 Yerinizi(Sinop/İstanbul vb. ) giriyorsunuz.
 
 Kurulum tamamen temiz bittikten sonra bu konudan devam edebilirsiniz. 
-[Marmara Chain Test Server Kurulumu.](https://github.com/marmarachain/MarmaraChain/issues/1)
+[Marmara-v.1.0-Kurulumu-Komodo-setup](https://github.com/marmarachain/Marmara-Versiyon-1.0-setup)
