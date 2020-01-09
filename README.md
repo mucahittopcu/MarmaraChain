@@ -1,14 +1,14 @@
-**Oracle VirtualBox ile Ubuntu Kurulumu**
+## Oracle VirtualBox ile Ubuntu Kurulumu 
 
 VirtualBox sayesinde bilgisayarımıza sanal makine kurabiliriz. Sanal Makine=?? diye sorarsanız… Arakdaşlar sanal makine , bilgisayarınız sanki iki makine(kasa/anakart) birden varmış gibi davranır.Yani siz hayali olarak bir bilgisayar daha kullanmaya başlarsınız.Bu kavramı zamanla daha iyi anlarsınız..
 
-**Öncelikle bilgisayarımıza kurmamız gereken programlar;**
+##Öncelikle bilgisayarımıza kurmamız gereken programlar 
 
 **[Oracle VirtualBox 4.1.8 Final Türkçe ](https://download.virtualbox.org/virtualbox/6.0.4/VirtualBox-6.0.4-128413-Win.exe)  (32-64bit Buradan indirebilirsiniz)
 
 **[Ubuntu 16.04 Masaüstü Sürümü ](http://releases.ubuntu.com/16.04/ubuntu-16.04.6-desktop-amd64.iso)              (32/64bit  Buradan indirebilirsiniz)
 
-**1-Öncelikle VirtualBox da Sanal Makine Oluşturmak**
+## Öncelikle VirtualBox da Sanal Makine Oluşturmak 
 
 Programımızı basit bir şekilde kurduktan sonra, sıradaki işlemler
      ** Öncelikle ‘Yeni’ ye basarak yeni bir tane daha oluşturuyoruz.Yanda ki fotoğrafta gördüğünüz ”MyUbuntu” benim kurulu sanal makinem. Şimdi sizler için bir tane  daha kuracağım.
@@ -52,7 +52,7 @@ Sanal Makinemiz oluşturuldu.
 
 
 
-**2-Sanal Makine’ye Ubuntu Kurulumu**
+## Sanal Makine’ye Ubuntu Kurulumu 
 Şu anda sanal makinemizin özelliklerini belirledik.Onun için bölüm ayırdık Ubuntu kurulumuna geçiyoruz.  Ondan sonra sanal makinemizi kullanabiliriz.
 
 Resimde ki gibi başlat butonuna basıyoruz.
@@ -68,7 +68,7 @@ sanal makinemizi çalıştırdığında en üstteki aygıtlar sekmesinden yapabi
 Orada Choose a virtual CD DVD disk file ‘ı seçerseniz .iso dosyanızla kurabilirsiniz
 ya da Host Drive E:/ seçerek de CD/DVD  kullanarak yapabilirsiniz.
 
-**Sırada ki işlem Ubuntu ‘ yu kurmak..**
+## Sırada ki işlem Ubuntu ‘ yu kurmak 
 
 Ubuntu Kur’a tıklıyoruz. ve resimlerdeki gibi basit ayarlamalarınızı yapıp yönergeleri takip ediyoruz.
 ![121](https://user-images.githubusercontent.com/3285283/54093539-e14d8a00-43a9-11e9-9b72-e20c70a4b453.jpg)
