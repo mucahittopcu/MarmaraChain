@@ -1,3 +1,18 @@
+[![Build Status](https://travis-ci.org/KomodoPlatform/komodo.svg?branch=master)](https://travis-ci.org/KomodoPlatform/komodo)
+[![Issues](https://img.shields.io/github/issues-raw/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/issues)
+[![PRs](https://img.shields.io/github/issues-pr-closed/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/pulls)
+[![Commits](https://img.shields.io/github/commit-activity/y/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/commits/dev)
+[![Contributors](https://img.shields.io/github/contributors/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/graphs/commit-activity)
+
+
+[![gitstars](https://img.shields.io/github/stars/komodoplatform/komodo?style=social)](https://github.com/KomodoPlatform/komodo/stargazers)
+[![twitter](https://img.shields.io/twitter/follow/marmarachain?style=social)](https://twitter.com/marmarachain)
+[![discord](https://img.shields.io/discord/412898016371015680)](https://discord.gg/NzpnAA)
+
+
+![MarmaraCreditLoop Logo](https://raw.githubusercontent.com/marmarachain/Marmara-v.1.0/marmara-specific/marmara_coin_logo.png "Marmara Credit Loop Logo")
+
 ## Oracle VirtualBox ile Ubuntu Kurulumu 
 
 VirtualBox sayesinde bilgisayarımıza sanal makine kurabiliriz. Sanal Makine=?? diye sorarsanız… Arakdaşlar sanal makine , bilgisayarınız sanki iki makine(kasa/anakart) birden varmış gibi davranır.Yani siz hayali olarak bir bilgisayar daha kullanmaya başlarsınız.Bu kavramı zamanla daha iyi anlarsınız..
@@ -81,7 +96,7 @@ Klavye seçimi yapıyorsunuz,
 Yerinizi(Sinop/İstanbul vb. ) giriyorsunuz.
 
 Kurulum tamamen temiz bittikten sonra bu konudan devam edebilirsiniz. 
-[Marmara-v.1.0-Kurulumu-Komodo-setup](https://github.com/marmarachain/Marmara-Versiyon-1.0-setup)
+[Marmara-v.1.0-Kurulumu-Komodo-setup](https://github.com/marmarachain/Marmara-v.1.0)
 
 ## contact :  
 B. Gültekin Çetiner http://twitter.com/drcetiner & ~Paro, (c) 2019  
