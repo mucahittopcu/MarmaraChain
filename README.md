@@ -8,10 +8,10 @@
 
 [![gitstars](https://img.shields.io/github/stars/komodoplatform/komodo?style=social)](https://github.com/KomodoPlatform/komodo/stargazers)
 [![twitter](https://img.shields.io/twitter/follow/marmarachain?style=social)](https://twitter.com/marmarachain)
-[![discord](https://img.shields.io/discord/412898016371015680)](https://discord.gg/NzpnAA)
+[![discord](https://img.shields.io/discord/412898016371015680)](https://discord.gg/QZNMw73) 
 
 
-![MarmaraCreditLoop Logo](https://raw.githubusercontent.com/marmarachain/Marmara-v.1.0/marmara-specific/marmara_coin_logo.png "Marmara Credit Loop Logo")
+![MarmaraCreditLoop Logo](https://raw.githubusercontent.com/marmarachain/Marmara-v.1.0/master/sonhali-beyaz-fon.png "Marmara Credit Loop Logo")
 
 ## Oracle VirtualBox ile Ubuntu Kurulumu 
 
