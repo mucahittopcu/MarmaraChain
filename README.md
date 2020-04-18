@@ -13,6 +13,8 @@
 
 ![MarmaraCreditLoop Logo](https://raw.githubusercontent.com/marmarachain/Marmara-v.1.0/master/sonhali-beyaz-fo.png "Marmara Credit Loop Logo")
 
+### **NOT : [ Marmara Credit Loops Windows Kurulum ve Kullanım.](https://github.com/marmarachain/MarmaraChain/blob/master/win-mcl.md)**
+
 ## Oracle VirtualBox ile Ubuntu Kurulumu 
 
 VirtualBox sayesinde bilgisayarımıza sanal makine kurabiliriz. Sanal Makine=?? diye sorarsanız… Arakdaşlar sanal makine , bilgisayarınız sanki iki makine(kasa/anakart) birden varmış gibi davranır.Yani siz hayali olarak bir bilgisayar daha kullanmaya başlarsınız.Bu kavramı zamanla daha iyi anlarsınız..
