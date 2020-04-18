@@ -138,7 +138,7 @@ Not : - blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüz
 **Not: Staking açarak kilitli coin ile staking yapabilirsiniz. (ne kadar çok coin kilitlerseniz blok bulma şansınız artar. )**
 
 ---
-Kısaca MCL Parametreleri.
+## Kısaca MCL Parametreleri.
 
 **<details><summary>Kredi Döngüsü kontrol etme işlemi.</summary>**
 - **`komodo-cli -ac_name=MCL marmaracreditloop txid`**
