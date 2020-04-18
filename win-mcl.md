@@ -18,10 +18,13 @@ ilk olarak linkteki **Win-MCL.zip** dosyasını indiriyoruz. http://www.marmara.
 
 - Girilecek path yolu : `"C:\Win-MCL"`
 - adım 1
+
 ![Komodo Logo](img/path-1.jpg "Marmara Credit")
 - adım 2 
+
 ![Komodo Logo](img/path-2.jpg "Marmara Credit")
 - adım 3
+
 ![Komodo Logo](img/path-3.png "Marmara Credit")
 
 
