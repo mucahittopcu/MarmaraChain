@@ -143,39 +143,39 @@ Not : - blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüz
 Kısaca MCL Parametreleri.
 
 **<details><summary>Kredi Döngüsü kontrol etme işlemi.</summary>**
-`komodo-cli -ac_name=MCL marmaracreditloop txid` 
+- **`komodo-cli -ac_name=MCL marmaracreditloop txid`**
 </details>
 
 **<details><summary>Kredi Döngüsü çek imzalama işlemi.</summary>**
-`komodo-cli -ac_name=MCL marmaraissue receiverpk amount currency matures approvaltxid`
+- **`komodo-cli -ac_name=MCL marmaraissue receiverpk amount currency matures approvaltxid`**
 </details>
 
 **<details><summary>Koin kilitleme.</summary>**
-`komodo-cli -ac_name=MCL marmaralock amount` 
+- **`komodo-cli -ac_name=MCL marmaralock amount`**
 </details>
 
 **<details><summary>Kredi Döngüsü çek isteği işlemi</summary>**
-- `komodo-cli -ac_name=MCL marmarareceive senderpk amount currency matures batontxid` 
+- **`komodo-cli -ac_name=MCL marmarareceive senderpk amount currency matures batontxid`**
 </details>
 
 **<details><summary>Kredi Döngüsü Transfer işlemi.</summary>**
-- `komodo-cli -ac_name=MCL marmaratransfer receiverpk amount currency matures approvaltxid` 
+- **`komodo-cli -ac_name=MCL marmaratransfer receiverpk amount currency matures approvaltxid`**
 </details>
 
 **<details><summary>Wallet bilgileri.</summary>**
-- `komodo-cli -ac_name=MCL marmarainfo 0 0 0 0` <pubkey> 
+- **`komodo-cli -ac_name=MCL marmarainfo 0 0 0 0 <pubkey>`**
 </details>
 
 **<details><summary>Koin gönderme</summary>**
-- `komodo-cli -ac_name=MCL sendtoaddress walletaddress amount` 
+- **`komodo-cli -ac_name=MCL sendtoaddress walletaddress amount`**
 </details>
 
 **<details><summary>Staking açma.</summary>**
-- `komodo-cli -ac_name=MCL setgenerate true 0` 
+- **`komodo-cli -ac_name=MCL setgenerate true 0`**
 </details>
 
 **<details><summary>Mining açma.</summary>**
-- `komodo-cli -ac_name=MCL setgenerate true 1` 
+- **`komodo-cli -ac_name=MCL setgenerate true 1`** 
 </details>
 
 
