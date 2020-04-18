@@ -48,13 +48,15 @@ ilk olarak linkteki **Win-MCL.zip** dosyasını indiriyoruz. http://www.marmara.
 </details>
 
 ## 3. adım zinciri başlatma.
-
+<details><summary>DETAYLAR İÇİN TIKLAYINIZ.</summary>
 - 2 adet MSDOS konsolu Açıyoruz (Win+R veya > başlat cmd yazarak "Command Prompt" açabilirsiniz.)
 - ilk ekrana MCl zinciri başlatma komutunu giriyoruz. (blokları çekmesini bekliyoruz.)
 
 ```komodod -ac_name=MCL -ac_supply=2000000 -ac_cc=2 -addnode=37.148.210.158 -addnode=37.148.212.36 -addressindex=1 -spentindex=1 -ac_marmara=1 -ac_staked=75 -ac_reward=3000000000```
 - resim
 ![Komodo Logo](img/resim1.png "Marmara Credit")
+</details>
+
 
 ## Zincire bağlandık!
 Not : - blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüzdan adresi oluşturarak "pubkey" alıp zinciri durdurup pubkey ile yeniden başlatabiliriz. ( zincire bağlandık artık. istediğimiz gibi hesabımızı kontrol edebiliriz.)
@@ -63,53 +65,79 @@ Not : - blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüz
 
 - yeni cüzdan adresi oluşturuyoruz. ve pubkey alıyoruz.
 
-- cüzdan oluşturma komutu :
+<details>
+<summary>cüzdan oluşturma komutu</summary>
+
 ```komodo-cli -ac_name=MCL getnewaddress```
-- pubkey alma komutu : 
+</details>
+
+<details>
+<summary>pubkey alma komutu </summary>
+ 
 ```komodo-cli -ac_name=MCL validateaddress "walletadresi"```
 ![Komodo Logo](img/resim2.png "Marmara Credit")
-- bilgileri kaydediyoruz.
+</details>
+
+<details>
+<summary>bilgileri kaydediyoruz.</summary>
+
 ![Komodo Logo](img/resim3.png "Marmara Credit")
-- zinciri durdurup pubkey ile başlatıyoruz.
+</details>
+
+<details>
+<summary>zinciri durdurup pubkey ile başlatıyoruz.</summary>
+
  - - zinciri durdurma 
  - - ```komodo-cli -ac_name=MCL stop```
  - - zinciri durdurma pubkey ile başlatma
 
  - - ```komodod -ac_name=MCL -ac_supply=2000000 -ac_cc=2 -addnode=37.148.210.158 -addnode=37.148.212.36 -addressindex=1 -spentindex=1 -ac_marmara=1 -ac_staked=75 -ac_reward=3000000000 -pubkey=03bb140553b21bbd10964013eba8c2bbb54c750247fcd3117f604a9c01c79f5da0```
  ![Komodo Logo](img/resim4.png "Marmara Credit")
+</details>
 
  ## Zincire pubkeyimiz ile başlattık!
 
  ### şimdi mining ve staking yapma komutları (2. ekranda yapılacaktır.)
  
- - mining ve staking kontrol etme.
+<details><summary>Mining ve staking kontrol etme.</summary>
+
  - - ```komodo-cli -ac_name=MCL getgenerate```
   ![Komodo Logo](img/resim5.png "Marmara Credit")
+</details>
 
-- Staking açma
+<details><summary>Staking açma</summary>
+
 - - ```komodo-cli -ac_name=MCL setgenerate true 0```
 ![Komodo Logo](img/resim6.png "Marmara Credit")
+</details>
 
-- Mining açma
+<details><summary>Mining açma</summary>
+
 - - ```komodo-cli -ac_name=MCL setgenerate true 1```
 ![Komodo Logo](img/resim7.png "Marmara Credit")
+</details>
 
-- Mining ve Staking kapatma.
+<details><summary>Mining ve Staking kapatma.</summary>
+
 - - ```komodo-cli -ac_name=MCL setgenerate false```
 ![Komodo Logo](img/resim8.png "Marmara Credit")
-
+</details>
 
 
 ## genel kontrol komutları.
 
-- wallet info kontrol.
+<details><summary>wallet info kontrol.</summary>
+
 - - ```komodo-cli -ac_name=MCL marmarainfo 0 0 0 0 "pubkey"```
 ![Komodo Logo](img/resim9.png "Marmara Credit")
+</details>
 
-- coin kilitleme .
+<details><summary>coin kilitleme .</summary>
+
 - - ```komodo-cli -ac_name=MCL marmaralock coinadeti```
 - - ```komodo-cli -ac_name=MCL sendrawtransaction "hex"```
 ![Komodo Logo](img/resim10.png "Marmara Credit")
+</details>
 
 **Not: Staking açarak kilitli coin ile staking yapabilirsiniz. (ne kadar çok coin kilitlerseniz blok bulma şansınız artar. )**
 
