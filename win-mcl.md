@@ -137,8 +137,6 @@ Not : - blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüz
 
 **Not: Staking açarak kilitli coin ile staking yapabilirsiniz. (ne kadar çok coin kilitlerseniz blok bulma şansınız artar. )**
 
-### UYARI KULLANACAĞINIZ TÜM KOMUTLAR TAMAMEN KİŞİNİN KENDİ SORUMLULUĞUNDADIR. BU UYARIYI DİKKATE ALARAK EMİN OLMADIĞINIZ KOMUTLARI KULLANMAYINIZ!
-- not : emin olmadığınız durumda. yöneticilere başvurduktan ve yöneticilerin size verdiği direktifler doğrultusunda  kullanmanızı ÖNERİYORUZ!
 ---
 Kısaca MCL Parametreleri.
 
@@ -178,7 +176,10 @@ Kısaca MCL Parametreleri.
 - **`komodo-cli -ac_name=MCL setgenerate true 1`** 
 </details>
 
-
+---
+### UYARI KULLANACAĞINIZ TÜM KOMUTLAR TAMAMEN KİŞİNİN KENDİ SORUMLULUĞUNDADIR. BU UYARIYI DİKKATE ALARAK EMİN OLMADIĞINIZ KOMUTLARI KULLANMAYINIZ!
+- not : emin olmadığınız durumda. yöneticilere başvurduktan ve yöneticilerin size verdiği direktifler doğrultusunda  kullanmanızı ÖNERİYORUZ!
+---
 ### contact :  
 B. Gültekin Çetiner http://twitter.com/drcetiner & ~Paro, (c) 2019  
 
