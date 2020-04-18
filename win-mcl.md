@@ -70,21 +70,18 @@ Not : - blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüz
 ```komodo-cli -ac_name=MCL getnewaddress```
 </details>
 
-<details>
-<summary>pubkey alma komutu </summary>
+**<details><summary>pubkey alma komutu </summary>**
  
 ```komodo-cli -ac_name=MCL validateaddress "walletadresi"```
 ![Komodo Logo](img/resim2.png "Marmara Credit")
 </details>
 
-<details>
-<summary>bilgileri kaydediyoruz.</summary>
+**<details><summary>bilgileri kaydediyoruz.</summary>**
 
 ![Komodo Logo](img/resim3.png "Marmara Credit")
 </details>
 
-<details>
-<summary>zinciri durdurup pubkey ile başlatıyoruz.</summary>
+**<details><summary>zinciri durdurup pubkey ile başlatıyoruz.</summary>**
 
  - - zinciri durdurma 
  - - ```komodo-cli -ac_name=MCL stop```
@@ -98,25 +95,25 @@ Not : - blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüz
 
  ### şimdi mining ve staking yapma komutları (2. ekranda yapılacaktır.)
  
-<details><summary>Mining ve staking kontrol etme.</summary>
+**<details><summary>Mining ve staking kontrol etme.</summary>**
 
  - - ```komodo-cli -ac_name=MCL getgenerate```
   ![Komodo Logo](img/resim5.png "Marmara Credit")
 </details>
 
-<details><summary>Staking açma</summary>
+**<details><summary>Staking açma</summary>**
 
 - - ```komodo-cli -ac_name=MCL setgenerate true 0```
 ![Komodo Logo](img/resim6.png "Marmara Credit")
 </details>
 
-<details><summary>Mining açma</summary>
+**<details><summary>Mining açma</summary>**
 
 - - ```komodo-cli -ac_name=MCL setgenerate true 1```
 ![Komodo Logo](img/resim7.png "Marmara Credit")
 </details>
 
-<details><summary>Mining ve Staking kapatma.</summary>
+**<details><summary>Mining ve Staking kapatma.</summary>**
 
 - - ```komodo-cli -ac_name=MCL setgenerate false```
 ![Komodo Logo](img/resim8.png "Marmara Credit")
@@ -125,13 +122,13 @@ Not : - blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüz
 
 ## genel kontrol komutları.
 
-<details><summary>wallet info kontrol.</summary>
+**<details><summary>wallet info kontrol.</summary>**
 
 - - ```komodo-cli -ac_name=MCL marmarainfo 0 0 0 0 "pubkey"```
 ![Komodo Logo](img/resim9.png "Marmara Credit")
 </details>
 
-<details><summary>coin kilitleme .</summary>
+**<details><summary>coin kilitleme .</summary>**
 
 - - ```komodo-cli -ac_name=MCL marmaralock coinadeti```
 - - ```komodo-cli -ac_name=MCL sendrawtransaction "hex"```
