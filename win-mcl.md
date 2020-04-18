@@ -13,7 +13,7 @@
 
 ![MarmaraCreditLoop Logo](https://raw.githubusercontent.com/marmarachain/Marmara-v.1.0/master/sonhali-beyaz-fo.png "Marmara Credit Loop Logo")
 
-<center> # Windows ile MCL (Marmara Credit Loops) zincire bağlanıp yeni cüzdan, staking ve mining oluşturma.</center>
+# Windows ile MCL (Marmara Credit Loops) zincire bağlanıp yeni cüzdan, staking ve mining oluşturma.
 
 ilk olarak linkteki **Win-MCL.zip** dosyasını indiriyoruz. http://www.marmara.io/guifiles/Win-MCL.zip
 
