@@ -19,8 +19,7 @@ ilk olarak linkteki **Win-MCL.zip** dosyasını indiriyoruz. http://www.marmara.
 
 ## Adımları uyguluyoruz.
 
-## 1. adım
-<details><summary>1. ADIM</summary>
+<details><summary>## 1. ADIM</summary>
 - **Win-MCL.zip** dosyasını `"C:\"` ana dizine atın.
 - **Win-MCL.zip** dosyasını sağ tıklayıp klasöre çıkart diyoruz.
 - `"C:\Win-MCl"` klasörüne girin.
