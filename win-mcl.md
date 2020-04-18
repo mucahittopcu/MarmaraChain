@@ -19,7 +19,7 @@ ilk olarak linkteki **Win-MCL.zip** dosyasını indiriyoruz. http://www.marmara.
 
 ## Adımları uyguluyoruz.
 
-## 1. adım
+## 1. ADIM
 **<details><summary>DETAYLAR İÇİN TIKLAYINIZ.</summary>**
 
 - **Win-MCL.zip** dosyasını `"C:\"` ana dizine atın.
@@ -32,8 +32,8 @@ ilk olarak linkteki **Win-MCL.zip** dosyasını indiriyoruz. http://www.marmara.
 
 
 
-## 2. adım (Path yolu için aşağıdaki resimlerde anlattıldığı gibi sırayla yapınız.)
-<details><summary>DETAYLAR İÇİN TIKLAYINIZ.</summary>
+## 2. ADIM (Path yolu için aşağıdaki resimlerde anlattıldığı gibi sırayla yapınız.)
+**<details><summary>DETAYLAR İÇİN TIKLAYINIZ.</summary>**
 
 - Girilecek path yolu : `"C:\Win-MCL"`
 - adım 1
@@ -47,8 +47,8 @@ ilk olarak linkteki **Win-MCL.zip** dosyasını indiriyoruz. http://www.marmara.
 - ![Komodo Logo](img/path-3.png "Marmara Credit")
 </details>
 
-## 3. adım zinciri başlatma.
-<details><summary>DETAYLAR İÇİN TIKLAYINIZ.</summary>
+## 3. ADIM zinciri başlatma.
+**<details><summary>DETAYLAR İÇİN TIKLAYINIZ.</summary>**
 - 2 adet MSDOS konsolu Açıyoruz (Win+R veya > başlat cmd yazarak "Command Prompt" açabilirsiniz.)
 - ilk ekrana MCl zinciri başlatma komutunu giriyoruz. (blokları çekmesini bekliyoruz.)
 
@@ -65,8 +65,7 @@ Not : - blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüz
 
 - yeni cüzdan adresi oluşturuyoruz. ve pubkey alıyoruz.
 
-<details>
-<summary>cüzdan oluşturma komutu</summary>
+**<details><summary>cüzdan oluşturma komutu</summary>**
 
 ```komodo-cli -ac_name=MCL getnewaddress```
 </details>
