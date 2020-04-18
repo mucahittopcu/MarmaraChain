@@ -177,7 +177,10 @@ Not : Blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüzda
 </details>
 
 ---
-### UYARI KULLANACAĞINIZ TÜM KOMUTLAR TAMAMEN KİŞİNİN KENDİ SORUMLULUĞUNDADIR. BU UYARIYI DİKKATE ALARAK EMİN OLMADIĞINIZ KOMUTLARI KULLANMAYINIZ!
+<span style="color: red">
+ ### UYARI KULLANACAĞINIZ TÜM KOMUTLAR TAMAMEN KİŞİNİN KENDİ SORUMLULUĞUNDADIR. BU UYARIYI DİKKATE ALARAK EMİN OLMADIĞINIZ KOMUTLARI KULLANMAYINIZ!
+ </span>
+
 - not : emin olmadığınız durumda. yöneticilere başvurduktan ve yöneticilerin size verdiği direktifler doğrultusunda  kullanmanızı ÖNERİYORUZ!
 ---
 ### contact :  
