@@ -36,6 +36,8 @@ ilk olarak linkteki **Win-MCL.zip** dosyasını indiriyoruz. http://www.marmara.
 **<details><summary>DETAYLAR İÇİN TIKLAYINIZ.</summary>**
 
 - Girilecek path yolu : `"C:\Win-MCL"`
+- Başlat + CMD yazıp Konsol Açıp ardından konsola `set PATH=%PATH%;C:\Win-MCL\` yazıp entera basınız.
+- Veya aşağıdaki resimleri takip ederek yapabilirsiniz.
 - adım 1
 
 - ![Komodo Logo](img/path-1.jpg "Marmara Credit")
