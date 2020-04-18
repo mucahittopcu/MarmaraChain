@@ -59,7 +59,7 @@ ilk olarak linkteki **Win-MCL.zip** dosyasını indiriyoruz. http://www.marmara.
 
 
 ## Zincire bağlandık!
-Not : - blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüzdan adresi oluşturarak "pubkey" alıp zinciri durdurup pubkey ile yeniden başlatabiliriz. ( zincire bağlandık artık. istediğimiz gibi hesabımızı kontrol edebiliriz.)
+Not : Blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüzdan adresi oluşturarak "pubkey" alıp zinciri durdurup pubkey ile yeniden başlatabiliriz. ( zincire bağlandık artık. istediğimiz gibi hesabımızı kontrol edebiliriz.)
 
 # Zincirde yeni  cüzdan adresi oluşturup pubkey ile başlatma.
 
