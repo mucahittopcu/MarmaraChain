@@ -15,7 +15,7 @@
 
 # Windows ile MCL (Marmara Credit Loops) zincire bağlanıp yeni cüzdan, staking ve mining oluşturma.
 
-ilk olarak linkteki **Win-MCL.zip** dosyasını indiriyoruz. http://www.marmara.io/guifiles/Linux-MCL-HF.zip
+ilk olarak linkteki **Win-MCL.zip** dosyasını indiriyoruz. http://www.marmara.io/guifiles/Win-MCL.zip
 
 ## Adımları uyguluyoruz.
 
