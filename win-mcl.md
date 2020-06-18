@@ -146,20 +146,20 @@ Not : Blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüzda
 - **`komodo-cli -ac_name=MCL marmaracreditloop txid`**
 </details>
 
-**<details><summary>Kredi Döngüsü çek imzalama işlemi.</summary>**
-- **`komodo-cli -ac_name=MCL marmaraissue receiverpk amount currency matures approvaltxid`**
-</details>
-
 **<details><summary>Koin kilitleme.</summary>**
 - **`komodo-cli -ac_name=MCL marmaralock amount`**
 </details>
 
+**<details><summary>Kredi Döngüsü çek imzalama işlemi.</summary>**
+- **`komodo-cli -ac_name=MCL marmaraissue receiverpk "{\"avalcount\":\"n\", \"autosettlement\":\"true\"|\"false\", \"autoinsurance\":\"true\"|\"false\", \"disputeexpires\":\"offset\", \"EscrowOn\":\"true\"|\"false\", \"BlockageAmount\":\"amount\" }" approvaltxid`**
+</details>
+
 **<details><summary>Kredi Döngüsü çek isteği işlemi</summary>**
-- **`komodo-cli -ac_name=MCL marmarareceive senderpk amount currency matures batontxid`**
+- **`komodo-cli -ac_name=MCL marmarareceive senderpk amount currency matures batontxid "{\"avacount\":\"n\"}"`**
 </details>
 
 **<details><summary>Kredi Döngüsü Transfer işlemi.</summary>**
-- **`komodo-cli -ac_name=MCL marmaratransfer receiverpk amount currency matures approvaltxid`**
+- **`komodo-cli -ac_name=MCL marmaratransfer receiverpk "{\"avacount\":\"n\"}" approvaltxid`**
 </details>
 
 **<details><summary>Wallet bilgileri.</summary>**
