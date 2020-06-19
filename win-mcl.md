@@ -54,7 +54,7 @@ ilk olarak linkteki **Win-MCL.zip** dosyasını indiriyoruz. http://www.marmara.
 - 2 adet MSDOS konsolu Açıyoruz (Win+R veya > başlat cmd yazarak "Command Prompt" açabilirsiniz.)
 - ilk ekrana MCl zinciri başlatma komutunu giriyoruz. (blokları çekmesini bekliyoruz.)
 
-```komodod -ac_name=MCL -ac_supply=2000000 -ac_cc=2 -addnode=37.148.210.158 -addnode=37.148.212.36 -addressindex=1 -spentindex=1 -ac_marmara=1 -ac_staked=75 -ac_reward=3000000000```
+`komodod -ac_name=MCL -ac_supply=2000000 -ac_cc=2 -addnode=37.148.210.158 -addnode=37.148.212.36 -addnode=46.4.238.65 -addressindex=1 -spentindex=1 -ac_marmara=1 -ac_staked=75 -ac_reward=3000000000 &`
 - resim
 ![Komodo Logo](img/resim1.png "Marmara Credit")
 </details>
@@ -155,11 +155,11 @@ Not : Blokları çekerken 2. ekranda blokzincirini kontrol edebilir, yeni cüzda
 </details>
 
 **<details><summary>Kredi Döngüsü çek isteği işlemi</summary>**
-- **`komodo-cli -ac_name=MCL marmarareceive senderpk amount currency matures batontxid "{\"avacount\":\"n\"}"`**
+- **`komodo-cli -ac_name=MCL marmarareceive senderpk amount currency matures batontxid "{\"avalcount\":\"n\"}"`**
 </details>
 
 **<details><summary>Kredi Döngüsü Transfer işlemi.</summary>**
-- **`komodo-cli -ac_name=MCL marmaratransfer receiverpk "{\"avacount\":\"n\"}" approvaltxid`**
+- **`komodo-cli -ac_name=MCL marmaratransfer receiverpk "{\"avalcount\":\"n\"}" approvaltxid`**
 </details>
 
 **<details><summary>Wallet bilgileri.</summary>**
